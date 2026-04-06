@@ -1,0 +1,201 @@
+skills,current_job_title,years_of_experience,next_job_role,growth_category
+"Jenkins, Kubernetes, Linux, Azure",DevOps Engineer,8,Site Reliability Engineer,Low
+"PowerBI, Scikit-Learn, Spark, SQL",Data Scientist,7,Senior Data Scientist,Medium
+"Cryptography, Firewalls",SOC Analyst,3,Penetration Tester,Medium
+"Pandas, Scikit-Learn, R",Data Analyst,9,Analytics Manager,Medium
+"Go, Python",Junior Python Developer,10,Backend Engineer,Low
+"SQL, Python, Scikit-Learn, Hadoop",Data Analyst,8,Senior Data Analyst,Low
+".NET, Java",Junior Python Developer,4,Data Scientist,High
+"PowerBI, R",Data Scientist,10,AI Research Lead,Medium
+"Cryptography, Go, Cloud Security",SOC Analyst,2,Security Engineer,High
+"PostgreSQL, Go, Node.js, .NET",Junior Python Developer,2,ML Engineer,High
+"Hadoop, Tableau, R",Data Analyst,4,Analytics Manager,High
+"PowerBI, Python, Tableau",Data Scientist,10,AI Research Lead,Medium
+"Tableau, R, Python, Hadoop, Spark",Data Analyst,7,Data Scientist,Medium
+"PowerBI, Scikit-Learn, Spark",Data Analyst,2,Data Scientist,High
+"Node.js, Go, .NET, PostgreSQL",Junior Python Developer,6,Backend Engineer,Medium
+"R, MongoDB, Spring Boot",Quality Assurance Engineer,6,SDET,Medium
+"PostgreSQL, Node.js",Backend Developer,7,Software Architect,Medium
+"TypeScript, React, Vue, JavaScript",Junior Frontend Developer,8,Fullstack Developer,Low
+"C#, Node.js",Backend Developer,10,Senior Backend Developer,Medium
+"PostgreSQL, Python, Java, Hadoop",Quality Assurance Engineer,6,DevOps Engineer,Medium
+"Docker, Kubernetes, AWS",DevOps Engineer,8,Platform Engineer,Low
+"PostgreSQL, Python, Node.js",Backend Developer,8,Software Architect,Medium
+"Node.js, .NET",Junior Python Developer,6,Data Scientist,High
+"PowerBI, Spark, Pandas",Data Scientist,9,AI Research Lead,Low
+"React, Angular, HTML/CSS",Junior Frontend Developer,5,Senior Frontend Developer,Medium
+"Python, Java, Jenkins, Node.js, Spring Boot",Backend Developer,2,Senior Backend Developer,High
+"Scikit-Learn, Tableau, Pandas",Data Analyst,3,Senior Data Analyst,Medium
+"Docker, Linux, Kubernetes, Ansible",DevOps Engineer,9,Platform Engineer,Medium
+"Vue, Docker, Azure, AWS",Systems Administrator,4,Cloud Architect,Medium
+"R, Scikit-Learn, Pandas",Data Analyst,7,Analytics Manager,Medium
+"Python, Tableau",Data Analyst,5,Data Scientist,High
+"Python, MongoDB",Junior Python Developer,5,Data Scientist,High
+"Go, Python, Java, Spring Boot",Backend Developer,5,Senior Backend Developer,Medium
+"Terraform, Linux, MongoDB",DevOps Engineer,6,Site Reliability Engineer,Medium
+"Tailwind, Angular",Junior Frontend Developer,2,Fullstack Developer,High
+"Hadoop, Python",Data Scientist,3,AI Research Lead,Medium
+"SIEM, Penetration Testing, Cloud Security, Wireshark",SOC Analyst,7,Security Engineer,High
+"C#, Python, Java, SQL, .NET",Quality Assurance Engineer,10,QA Lead,Low
+"SIEM, Firewalls, Cryptography",SOC Analyst,8,Security Engineer,Low
+"Go, Node.js, MongoDB, C#",Quality Assurance Engineer,8,QA Lead,Low
+"Scikit-Learn, Spark, Tableau",Data Scientist,8,AI Research Lead,Low
+"SQL, Python, Spark",Data Scientist,7,ML Engineer,Medium
+"Docker, Penetration Testing, Kubernetes, AWS",Systems Administrator,5,DevOps Engineer,High
+"Terraform, Ansible, Azure, AWS",DevOps Engineer,4,Site Reliability Engineer,High
+"SIEM, Cloud Security, Wireshark",SOC Analyst,7,Security Engineer,High
+"Terraform, Node.js, Azure",Systems Administrator,6,DevOps Engineer,High
+"PostgreSQL, Node.js, MongoDB, Spring Boot",Quality Assurance Engineer,4,DevOps Engineer,Medium
+"TypeScript, Vue, Tailwind",Junior Frontend Developer,10,Fullstack Developer,Low
+"Terraform, Docker",DevOps Engineer,4,Platform Engineer,Medium
+"Go, .NET, Python, C#",Backend Developer,8,Senior Backend Developer,Medium
+"Jenkins, Ansible",Systems Administrator,10,Cloud Architect,Medium
+"SIEM, Penetration Testing, Wireshark",SOC Analyst,5,Security Engineer,High
+"Docker, Kubernetes, Linux, AWS",Systems Administrator,3,DevOps Engineer,High
+"Docker, Ansible",DevOps Engineer,8,Cloud Architect,Medium
+"Jenkins, Terraform, Azure, AWS",DevOps Engineer,8,Platform Engineer,Low
+"Jenkins, Kubernetes, Linux, Tailwind",Systems Administrator,5,DevOps Engineer,High
+"Penetration Testing, Cloud Security, Wireshark",SOC Analyst,6,Penetration Tester,High
+"PostgreSQL, Python, MongoDB",Junior Python Developer,1,Data Scientist,High
+"Python, .NET, MongoDB",Junior Python Developer,7,Backend Engineer,Medium
+".NET, Java",Junior Python Developer,8,ML Engineer,Low
+"PostgreSQL, .NET, Java, Spring Boot",Junior Python Developer,9,Backend Engineer,Medium
+"R, Pandas",Data Scientist,4,Senior Data Scientist,Medium
+"SIEM, Cloud Security",SOC Analyst,1,Penetration Tester,Medium
+"Terraform, Python, PostgreSQL, .NET, MongoDB",Quality Assurance Engineer,9,SDET,Medium
+"Node.js, Spring Boot",Backend Developer,2,Senior Backend Developer,High
+"Terraform, Jenkins, AWS",Systems Administrator,5,DevOps Engineer,High
+"Firewalls, Cloud Security",SOC Analyst,7,Penetration Tester,High
+"React, Vue",Junior Frontend Developer,7,Senior Frontend Developer,High
+"PostgreSQL, .NET, Java",Junior Python Developer,4,Backend Engineer,Medium
+"SQL, Hadoop, Scikit-Learn, Spark",Data Scientist,2,AI Research Lead,Medium
+"React, Tailwind, Angular, HTML/CSS",Junior Frontend Developer,8,Fullstack Developer,Low
+"Jenkins, Java, Spring Boot",Quality Assurance Engineer,4,SDET,High
+"Jenkins, Kubernetes, Linux",DevOps Engineer,8,Site Reliability Engineer,Medium
+"React, TypeScript, JavaScript, Angular",Junior Frontend Developer,1,Fullstack Developer,High
+"React, Ansible, Vue, TypeScript, HTML/CSS",Junior Frontend Developer,4,Fullstack Developer,High
+"Jenkins, Ansible, Azure, Terraform",Systems Administrator,3,DevOps Engineer,High
+"React, JavaScript, Python",Junior Frontend Developer,3,Fullstack Developer,High
+".NET, MongoDB",Backend Developer,8,Software Architect,Low
+"Python, MongoDB, Spring Boot",Junior Python Developer,9,Data Scientist,Medium
+"Linux, Ansible",Systems Administrator,7,Cloud Architect,High
+"Terraform, Kubernetes, Azure, Spring Boot",Systems Administrator,9,Cloud Architect,Low
+"Cryptography, Linux, AWS",DevOps Engineer,10,Cloud Architect,Low
+"Python, Angular, HTML/CSS",Junior Frontend Developer,7,Fullstack Developer,Medium
+"SQL, Scikit-Learn, Tableau, MongoDB",Data Analyst,6,Data Scientist,High
+"MongoDB, Spring Boot",Junior Python Developer,7,Backend Engineer,High
+"SIEM, Penetration Testing, Cloud Security, Wireshark",SOC Analyst,2,Penetration Tester,High
+"Go, Java, Node.js, Spring Boot, .NET",Quality Assurance Engineer,5,DevOps Engineer,High
+"PostgreSQL, C#, Node.js, Python",Junior Python Developer,5,Data Scientist,Medium
+"Scikit-Learn, R",Data Analyst,2,Senior Data Analyst,Medium
+"Go, Node.js",Backend Developer,10,Software Architect,Low
+"PostgreSQL, Node.js, .NET, Java",Junior Python Developer,9,ML Engineer,Medium
+"C#, Spring Boot",Quality Assurance Engineer,1,SDET,Medium
+"Linux, Azure",Systems Administrator,3,DevOps Engineer,High
+"Linux, Ansible",DevOps Engineer,5,Site Reliability Engineer,Medium
+"Hadoop, Spark, Tableau, Pandas",Data Scientist,2,Senior Data Scientist,High
+"Jenkins, Terraform, Kubernetes, Ansible",DevOps Engineer,4,Platform Engineer,High
+"SIEM, Firewalls, Penetration Testing, Cloud Security",SOC Analyst,5,Penetration Tester,High
+"Jenkins, Terraform, Azure, Ansible",Systems Administrator,4,Cloud Architect,Medium
+"C#, Java",Junior Python Developer,10,Backend Engineer,Medium
+"Spring Boot, Docker, Ansible",DevOps Engineer,4,Platform Engineer,Medium
+"Cryptography, Firewalls, Penetration Testing, Cloud Security",SOC Analyst,9,Penetration Tester,Low
+"SQL, Scikit-Learn, Pandas",Data Scientist,10,AI Research Lead,Low
+"Tailwind, Angular",Junior Frontend Developer,3,Senior Frontend Developer,Medium
+"C#, MongoDB, Spring Boot",Junior Python Developer,10,Backend Engineer,Medium
+"Tableau, Go, SQL, Hadoop, Spark",Data Scientist,4,ML Engineer,Medium
+"Terraform, Kubernetes",Systems Administrator,10,DevOps Engineer,Medium
+"Linux, Azure, Jenkins, Kubernetes, .NET",DevOps Engineer,7,Cloud Architect,High
+"Terraform, Docker, Ansible",Systems Administrator,2,DevOps Engineer,High
+"PostgreSQL, MongoDB",Backend Developer,3,Software Architect,Medium
+"C#, Spring Boot",Quality Assurance Engineer,10,DevOps Engineer,Low
+"Jenkins, React, JavaScript, Angular",Junior Frontend Developer,6,Fullstack Developer,High
+"Terraform, Docker",DevOps Engineer,10,Site Reliability Engineer,Medium
+"Python, Node.js, .NET, MongoDB",Quality Assurance Engineer,1,DevOps Engineer,High
+"Pandas, Scikit-Learn, Tableau, R",Data Scientist,10,Senior Data Scientist,Low
+"Vue, Penetration Testing, Tailwind, TypeScript, Angular",Junior Frontend Developer,6,Senior Frontend Developer,Medium
+"Terraform, Docker, Azure",DevOps Engineer,10,Cloud Architect,Low
+"Jenkins, Terraform",Systems Administrator,5,Cloud Architect,High
+"Python, AWS, MongoDB, Spring Boot",Backend Developer,4,Senior Backend Developer,High
+"PostgreSQL, Spring Boot",Quality Assurance Engineer,10,DevOps Engineer,Low
+"C#, Angular, HTML/CSS",Junior Frontend Developer,4,Senior Frontend Developer,Medium
+"Linux, Terraform, Jenkins, Node.js, Docker",DevOps Engineer,5,Cloud Architect,High
+"C#, Go, Wireshark",Junior Python Developer,4,Backend Engineer,Medium
+"PostgreSQL, Jenkins, Node.js, Spring Boot, MongoDB",Backend Developer,6,Senior Backend Developer,High
+"Terraform, SIEM, Jenkins",DevOps Engineer,7,Site Reliability Engineer,High
+"Cryptography, Firewalls, Penetration Testing, Cloud Security",SOC Analyst,2,Security Engineer,Medium
+"React, TypeScript, Penetration Testing, HTML/CSS",Junior Frontend Developer,2,Senior Frontend Developer,High
+"Python, Pandas, Hadoop",Data Analyst,1,Analytics Manager,Medium
+"Terraform, Kubernetes, Docker",DevOps Engineer,3,Platform Engineer,High
+"SQL, Hadoop, Scikit-Learn, Tableau",Data Scientist,7,AI Research Lead,High
+"SQL, Scikit-Learn, Tableau, R",Data Analyst,5,Analytics Manager,High
+"React, JavaScript, Angular",Junior Frontend Developer,9,Senior Frontend Developer,Medium
+"React, JavaScript, Tailwind",Junior Frontend Developer,8,Senior Frontend Developer,Medium
+"Go, Python, Java, PostgreSQL, MongoDB",Quality Assurance Engineer,6,QA Lead,Medium
+"SQL, Python, Tableau, R",Data Analyst,3,Analytics Manager,High
+"SIEM, Firewalls, Wireshark",SOC Analyst,4,Security Engineer,High
+"Terraform, Azure, Docker, Kubernetes",DevOps Engineer,5,Platform Engineer,Medium
+"SQL, Python, Tableau",Data Scientist,9,AI Research Lead,Medium
+"SQL, Python, Scikit-Learn, R",Data Scientist,8,ML Engineer,Medium
+"C#, Python, MongoDB",Backend Developer,6,Software Architect,Medium
+"Go, Node.js, Python, Spring Boot",Quality Assurance Engineer,2,DevOps Engineer,High
+"PostgreSQL, Go, .NET, Java",Backend Developer,2,Software Architect,High
+"Terraform, Go, Kubernetes",DevOps Engineer,5,Cloud Architect,Medium
+"Jenkins, Azure",DevOps Engineer,7,Site Reliability Engineer,High
+"Go, .NET, Spring Boot",Backend Developer,8,Software Architect,Low
+"Java, Spring Boot, TypeScript, .NET, MongoDB",Quality Assurance Engineer,2,DevOps Engineer,High
+"Vue, .NET, Java",Backend Developer,6,Senior Backend Developer,Medium
+"SQL, Hadoop, Scikit-Learn, Hadoop",Data Analyst,5,Senior Data Analyst,High
+"TypeScript, JavaScript, Angular, HTML/CSS",Junior Frontend Developer,7,Fullstack Developer,Medium
+"Python, Penetration Testing, Cloud Security, Wireshark",SOC Analyst,2,Penetration Tester,Medium
+"Firewalls, Penetration Testing, Cloud Security",SOC Analyst,8,Penetration Tester,Low
+"Terraform, AWS, Ansible",DevOps Engineer,6,Cloud Architect,High
+"Penetration Testing, Cloud Security, SIEM, Hadoop, Firewalls",SOC Analyst,4,Security Engineer,Medium
+"React, JavaScript, Tailwind, HTML/CSS",Junior Frontend Developer,5,Senior Frontend Developer,High
+"Tableau, SQL, Scikit-Learn, Spark, Pandas",Data Scientist,6,Senior Data Scientist,High
+"PostgreSQL, Python, Go",Backend Developer,10,Senior Backend Developer,Low
+"Wireshark, C#, Python, Spring Boot",Backend Developer,3,Software Architect,Medium
+"C#, .NET, JavaScript, Java",Backend Developer,8,Senior Backend Developer,Medium
+"Ansible, Docker, Azure, AWS",Systems Administrator,2,DevOps Engineer,High
+"Python, Tableau",Data Analyst,9,Analytics Manager,Low
+"SQL, Spark, R",Data Analyst,7,Senior Data Analyst,High
+"Jenkins, Ansible, Docker, AWS",Systems Administrator,4,Cloud Architect,High
+"Vue, HTML/CSS",Junior Frontend Developer,10,Senior Frontend Developer,Medium
+"Docker, Azure",Systems Administrator,5,Cloud Architect,Medium
+"Go, C#, Node.js, Python",Junior Python Developer,2,ML Engineer,High
+"Terraform, C#, Node.js, Spring Boot",Quality Assurance Engineer,4,SDET,Medium
+"Go, HTML/CSS, Spring Boot",Quality Assurance Engineer,3,SDET,High
+"Go, Vue, Python, .NET, MongoDB",Quality Assurance Engineer,3,QA Lead,Medium
+"Kubernetes, Linux, AWS",DevOps Engineer,3,Site Reliability Engineer,High
+"SIEM, Firewalls, Penetration Testing, Wireshark",SOC Analyst,6,Penetration Tester,Medium
+"Kubernetes, Linux, Azure",DevOps Engineer,10,Cloud Architect,Low
+"React, Vue, Angular",Junior Frontend Developer,10,Fullstack Developer,Medium
+"Jenkins, Linux, Azure, AWS",DevOps Engineer,5,Site Reliability Engineer,Medium
+"SQL, Pandas",Data Analyst,3,Analytics Manager,High
+"Java, MongoDB",Junior Python Developer,2,ML Engineer,High
+"Hadoop, Tableau, R",Data Analyst,9,Data Scientist,Low
+"Python, .NET, Java, Hadoop",Backend Developer,3,Senior Backend Developer,Medium
+"Python, Hadoop",Data Analyst,8,Data Scientist,Low
+"Vue, Tailwind",Junior Frontend Developer,8,Fullstack Developer,Medium
+"PowerBI, SQL, Tableau, Pandas",Data Scientist,7,AI Research Lead,High
+"React, Terraform, Jenkins, Kubernetes, AWS",DevOps Engineer,10,Platform Engineer,Medium
+"SIEM, Firewalls, Penetration Testing",SOC Analyst,8,Penetration Tester,Medium
+".NET, MongoDB",Junior Python Developer,1,Data Scientist,High
+"Node.js, .NET, Java",Junior Python Developer,6,Backend Engineer,Medium
+"PostgreSQL, Python, Node.js, Spring Boot",Quality Assurance Engineer,7,SDET,High
+"PowerBI, Spark",Data Analyst,8,Data Scientist,Medium
+"PostgreSQL, Python, Node.js",Backend Developer,3,Software Architect,Medium
+"PostgreSQL, C#, Node.js, Python",Backend Developer,4,Software Architect,High
+"Cloud Security, Wireshark",SOC Analyst,6,Penetration Tester,Medium
+"Go, .NET, Angular",Backend Developer,7,Software Architect,Medium
+"Terraform, Docker, Jenkins, Ansible",DevOps Engineer,7,Site Reliability Engineer,High
+"Terraform, Kubernetes, Docker, Ansible",Systems Administrator,8,Cloud Architect,Low
+"SIEM, Firewalls, Cryptography, Wireshark",SOC Analyst,6,Security Engineer,Medium
+"Terraform, AWS, Docker, Ansible",DevOps Engineer,9,Platform Engineer,Low
+"MongoDB, Go, Java, Spring Boot",Junior Python Developer,10,Data Scientist,Low
+"Hadoop, Scikit-Learn, Spark, Tableau",Data Scientist,3,Senior Data Scientist,Medium
+"Python, Scikit-Learn",Data Scientist,9,Senior Data Scientist,Low
+"SIEM, Penetration Testing, Cryptography, Wireshark",SOC Analyst,7,Penetration Tester,High
+"Jenkins, Docker, Azure, Terraform",Systems Administrator,9,DevOps Engineer,Low
+"Jenkins, Docker, Azure, Ansible",Systems Administrator,2,Cloud Architect,High
+"Terraform, AWS, JavaScript, AWS",DevOps Engineer,8,Platform Engineer,Medium
