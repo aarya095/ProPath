@@ -1,7 +1,10 @@
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 import joblib
-from app.model.preprocess import preprocess_data, create_vectorizer
+from app.model.preprocess import (
+    preprocess_data, 
+    create_vectorizer
+    )
 
 df = pd.read_csv("data/dataset.csv")
 
@@ -13,7 +16,7 @@ y = df['next_job_role']
 model = LogisticRegression()
 model.fit(X, y)
 
-# ✅ Save BOTH model and vectorizer
+# Save BOTH model and vectorizer
 joblib.dump(model, "model.pkl")
 joblib.dump(vectorizer, "vectorizer.pkl")
 

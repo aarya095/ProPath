@@ -30,7 +30,8 @@ def recommend_skills(predicted_role, user_skills, top_n=5):
 
     skill_counts = Counter(all_skills)
 
-    user_skill_set = set([s.strip().lower() for s in user_skills.split(",")])
+    user_skill_set = set([s.strip().lower() \
+                          for s in user_skills.split(",")])
 
     # Remove existing skills
     filtered_skills = [

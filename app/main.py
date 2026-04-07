@@ -1,6 +1,10 @@
 from fastapi import FastAPI
 from app.schemas import UserInput
-from app.model.predict import predict_role, growth_category, recommend_skills
+from app.model.predict import (
+    predict_role, 
+    growth_category, 
+    recommend_skills
+    )
 
 app = FastAPI()
 
