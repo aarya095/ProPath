@@ -10,12 +10,7 @@ def home():
 
 @app.post("/predict")
 def predict(data: UserInput):
-    next_role = predict_role(
-        data.skills,
-        data.job_title,
-        data.experience
-    )
-    
+    next_role = predict_role(data.skills)
     growth = growth_category(data.experience)
     skills = recommend_skills(next_role)
 

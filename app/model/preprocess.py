@@ -4,15 +4,9 @@ def create_vectorizer():
     return TfidfVectorizer()
 
 def preprocess_data(df, vectorizer):
-    df['combined'] = (
-        df['skills'].str.lower() + " " +
-        df['current_job_title'].str.lower() + " " +
-        df['years_of_experience'].astype(str)
-    )
-
-    X = vectorizer.fit_transform(df['combined'])
+    df['skills'] = df['skills'].str.lower()
+    X = vectorizer.fit_transform(df['skills'])
     return X, df
 
-def transform_input(skills, job_title, experience, vectorizer):
-    combined = f"{skills.lower()} {job_title.lower()} {experience}"
-    return vectorizer.transform([combined])
+def transform_input(skills, vectorizer):
+    return vectorizer.transform([skills.lower()])

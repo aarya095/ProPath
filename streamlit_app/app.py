@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("ProPath - Career Predictor")
+st.title("🚀 ProPath - Career Predictor")
 
 skills = st.text_input("Enter Skills (comma separated)")
 job_title = st.text_input("Current Job Title")
