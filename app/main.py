@@ -1,22 +1,31 @@
 from fastapi import FastAPI
 from app.schemas import UserInput
-from app.model.predict import get_top_roles, growth_category, recommend_skills, model, vectorizer, label_encoder
+from app.model.predict import predict_roles, growth_category, recommend_skills
 
 app = FastAPI()
 
+@app.get("/")
+def home():
+    return {"message": "ProPath API running"}
+
 @app.post("/predict")
 def predict(data: UserInput):
-    top_roles = get_top_roles(data.skills, model, vectorizer, label_encoder)
 
-    # First role = best prediction
-    next_role = top_roles[0]["role"]
+    role_predictions = predict_roles(
+        data.skills,
+        data.job_title,
+        data.experience,
+        top_n=3
+    )
 
     growth = growth_category(data.experience)
-    skills = recommend_skills(next_role)
+
+    # Recommend skills based on top role
+    top_role = role_predictions[0]["role"]
+    skills = recommend_skills(top_role)
 
     return {
-        "next_role": next_role,
-        "top_roles": top_roles,
+        "predicted_roles": role_predictions,
         "growth": growth,
         "recommended_skills": skills
     }
