@@ -19,18 +19,9 @@ if st.button("Predict"):
     if response.status_code == 200:
         result = response.json()
 
-        # Show Top Career Paths
-        st.subheader("Top Career Paths")
-
-        for role in result["predicted_roles"]:
-            st.write(f"{role['role']} ({role['confidence']*100:.2f}%)")
-
-        # Growth
+        st.success(f"Next Role: {result['next_role']}")
         st.info(f"Growth: {result['growth']}")
-
-        # Recommended Skills
-        st.subheader("Recommended Skills")
+        st.write("Recommended Skills:")
         st.write(result['recommended_skills'])
-
     else:
         st.error("Error connecting to API")

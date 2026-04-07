@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from app.schemas import UserInput
-from app.model.predict import predict_roles, growth_category, recommend_skills
+from app.model.predict import predict_role, growth_category, recommend_skills
 
 app = FastAPI()
 
@@ -10,22 +10,12 @@ def home():
 
 @app.post("/predict")
 def predict(data: UserInput):
-
-    role_predictions = predict_roles(
-        data.skills,
-        data.job_title,
-        data.experience,
-        top_n=3
-    )
-
+    next_role = predict_role(data.skills)
     growth = growth_category(data.experience)
-
-    # Recommend skills based on top role
-    top_role = role_predictions[0]["role"]
-    skills = recommend_skills(top_role)
+    skills = recommend_skills(next_role, data.skills)
 
     return {
-        "predicted_roles": role_predictions,
+        "next_role": next_role,
         "growth": growth,
         "recommended_skills": skills
     }
