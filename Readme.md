@@ -63,8 +63,8 @@ propath/
 ### 1. Clone the Repository
 
 ```
-git clone <your-repo-url>
-cd propath
+git clone https://github.com/aarya095/ProPath.git
+cd ProPath
 ```
 
 ---
@@ -93,25 +93,8 @@ pip install -r requirements.txt
 
 ---
 
-### 4. Prepare Dataset
 
-* Place your dataset inside:
-
-```
-data/dataset.csv
-```
-
-Ensure it contains:
-
-* skills
-* current_job_title
-* years_of_experience
-* next_job_role
-* growth_category
-
----
-
-### 5. Train the Model
+### 4. Train the Model
 
 ```
 cd app/model
@@ -125,7 +108,7 @@ This will generate:
 
 ---
 
-### 6. Run FastAPI Backend
+### 5. Run FastAPI Backend
 
 Go back to root directory:
 
@@ -142,7 +125,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-### 7. Run Streamlit Frontend
+### 6. Run Streamlit Frontend
 
 Open a new terminal:
 
