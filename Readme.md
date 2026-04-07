@@ -71,11 +71,10 @@ cd propath
 
 ### 2. Create Virtual Environment
 
-#### For Linux (Ubuntu with fish shell)
+#### For Windows (optional)
 
 ```
-python3 -m venv venv
-source venv/bin/activate.fish
+source venv/Scripts/activate
 ```
 
 #### For Bash (optional)
