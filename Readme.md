@@ -69,17 +69,19 @@ cd ProPath
 
 ---
 
-### 2. Create Virtual Environment
+### 2. Create Virtual Environment and activate it
 
-#### For Windows (optional)
-
-```
-source venv/Scripts/activate
-```
-
-#### For Bash (optional)
+#### For Windows
 
 ```
+python -m venv venv
+venv/Scripts/activate
+```
+
+#### For Bash
+
+```
+python -m venv venv
 source venv/bin/activate
 ```
 
