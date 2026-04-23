@@ -99,8 +99,7 @@ pip install -r requirements.txt
 ### 4. Train the Model
 
 ```
-cd app/model
-python train.py
+python -m app.model.train
 ```
 
 This will generate:
@@ -115,7 +114,6 @@ This will generate:
 Go back to root directory:
 
 ```
-cd ../../
 uvicorn app.main:app --reload
 ```
 
