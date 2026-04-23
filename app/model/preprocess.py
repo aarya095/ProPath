@@ -8,5 +8,8 @@ def preprocess_data(df, vectorizer):
     X = vectorizer.fit_transform(df['skills'])
     return X, df
 
-def transform_input(skills, vectorizer):
+def transform_input(
+        skills, 
+        vectorizer
+        ):
     return vectorizer.transform([skills.lower()])

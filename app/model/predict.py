@@ -9,7 +9,10 @@ model = joblib.load("model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
 
 def predict_role(skills):
-    X = transform_input(skills, vectorizer)
+    X = transform_input(
+        skills, 
+        vectorizer
+        )
     return model.predict(X)[0]
 
 def growth_category(exp):
@@ -20,7 +23,11 @@ def growth_category(exp):
     else:
         return "Stable"
 
-def recommend_skills(predicted_role, user_skills, top_n=5):
+def recommend_skills(
+        predicted_role, 
+        user_skills, 
+        top_n=5
+        ):
     role_data = df[df['next_job_role'] == predicted_role]
 
     all_skills = []
