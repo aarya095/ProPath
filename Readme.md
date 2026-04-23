@@ -69,17 +69,19 @@ cd ProPath
 
 ---
 
-### 2. Create Virtual Environment
+### 2. Create Virtual Environment and activate it
 
-#### For Windows (optional)
-
-```
-source venv/Scripts/activate
-```
-
-#### For Bash (optional)
+#### For Windows
 
 ```
+python -m venv venv
+venv/Scripts/activate
+```
+
+#### For Bash
+
+```
+python -m venv venv
 source venv/bin/activate
 ```
 
@@ -97,8 +99,7 @@ pip install -r requirements.txt
 ### 4. Train the Model
 
 ```
-cd app/model
-python train.py
+python -m app.model.train
 ```
 
 This will generate:
@@ -113,7 +114,6 @@ This will generate:
 Go back to root directory:
 
 ```
-cd ../../
 uvicorn app.main:app --reload
 ```
 
